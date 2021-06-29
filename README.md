@@ -1,6 +1,6 @@
 # HandsOnWork-II
-Código compartilhado - Em fase de desenvolvimento
-https://vitoretur.github.io/HandsOnWork-II-Prototipo/ - Protótipo.
+Em fase de desenvolvimento
+https://vitoretur.github.io/HandsOnWork-II-Prototipo/
 
 
 <a href="https://vitoretur.github.io/HandsOnWork-II-Prototipo/" target="_blank"><img
